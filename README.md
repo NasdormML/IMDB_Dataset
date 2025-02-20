@@ -42,7 +42,7 @@ Run the Jupyter Notebook step by step to:
 3. Train the model.
 4. Evaluate performance.
 
-Or you can export the notebook to **Kaggle Notebook** and start. It is recommended to use a **T100 GPU** for optimal performance.
+Or you can export the notebook to **Kaggle Notebook** and start. It is recommended to use a **P100 GPU** for optimal performance.
 
 ## Evaluation Metrics
 - **Accuracy**
