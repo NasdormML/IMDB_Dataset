@@ -111,7 +111,3 @@ Confusion Matrix:
 
 ## Usage
 This model can be extended for various text classification tasks by fine-tuning on different datasets.
-
----
-**Author:** Your Name
-
